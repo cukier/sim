@@ -1,0 +1,21 @@
+Title: * D:\workspace\sim\calculo corrente bc337.asc
+Date: Mon Apr 20 01:07:37 2015
+Plotname: Operating Point
+Flags: real
+No. Variables: 9
+No. Points:            1
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Variables:
+	0	V(n002)	voltage
+	1	V(n003)	voltage
+	2	V(n001)	voltage
+	3	Ic(Q1)	device_current
+	4	Ib(Q1)	device_current
+	5	Ie(Q1)	device_current
+	6	I(R1)	device_current
+	7	I(V2)	device_current
+	8	I(V1)	device_current
+Binary:
+WwîCff
+@š];?`ÿŸ@1%œ=~¤†9Õ«œ½~¤†¹1%œ½~¤†¹
