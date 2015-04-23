@@ -1,0 +1,22 @@
+Circuit: * D:\Sim\level shift.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Tue Dec 09 13:16:15 2014
+Total elapsed time: 0.109 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 6687
+traniter = 6680
+tranpoints = 2332
+accept = 2005
+rejected = 327
+matrix size = 16
+fillins = 10
+solver = Normal
+Matrix Compiler1: 1,37 KB object code size  0.5/0.2/[0.1]
+Matrix Compiler2:     116 opcodes  0.2/[0.2]/0.2
+
+

@@ -1,0 +1,24 @@
+Circuit: * D:\Sim\wil.asc
+
+WARNING: Less than two connections to node NC_01.  This node is used by S:U1:1.
+WARNING: Less than two connections to node NC_02.  This node is used by Q1.
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri Sep 05 16:39:01 2014
+Total elapsed time: 0.075 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 5183
+traniter = 5160
+tranpoints = 1728
+accept = 1557
+rejected = 171
+matrix size = 21
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1000 bytes object code size  0.8/0.4/[0.3]
+Matrix Compiler2: off  [0.3]/0.5/0.7
+
+

@@ -1,0 +1,6 @@
+Circuit: * E:\Eletronica\Sim\latch_nand.asc
+
+WARNING: Less than two connections to node +5V.  This node is used by V1.
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 1e-010 ++++++++++++++++++++++++++++++++++++++++++++++++++Fatal Error: Analysis:  Time step too small; time = 1e-010, timestep = 1.25e-019: trouble with and-instance a1
+
