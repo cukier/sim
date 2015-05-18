@@ -1,0 +1,13 @@
+Title: * D:\Sim\meia ponte h.asc
+Date: Fri Apr 24 13:56:42 2015
+Plotname: Transient Analysis
+Flags: real forward
+No. Variables: 20
+No. Points:            0
+Offset:   0.0000000000000000e+000
+Command: Linear Technology Corporation LTspice IV
+Backannotation: u1 1 2 3
+Backannotation: u2 1 2 3 4 5
+Backannotation: u1:1 1 2 3
+Backannotation: u1:2 11 16
+Variables:
